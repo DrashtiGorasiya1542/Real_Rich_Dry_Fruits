@@ -9,4 +9,5 @@ export const faq = [
   { q: 'How should I store dry fruits?', a: 'Keep them in an airtight jar in a cool, dark place. Close the pack tightly after each use.' },
   { q: 'Are your products FSSAI certified?', a: `Yes. Our FSSAI licence number is ${site.fssai}.` },
   { q: 'Where are you located?', a: `We are based in Khandwa, Madhya Pradesh. ${site.address}.` },
+  { q: 'Where are you located?', a: `We are based in Khandwa. ${site.address}.` },
 ];
